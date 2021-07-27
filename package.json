@@ -1,0 +1,26 @@
+{
+  "name": "blush-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "A UI theme with beautiful colors (mostly pink)!!",
+  "publisher": "Prabodhan",
+  "author": {
+    "name": "Prabodhan Sonawane"
+  },
+  "keywords": [
+    "ui",
+    "theme",
+    "dark theme",
+    "darktheme",
+    "pink",
+    "pink theme",
+    "pinktheme",
+    "prabodhan",
+    "blush"
+  ],
+  "repository": "https://github.com/Prabodhan29/blush-ui-forAtom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
