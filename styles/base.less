@@ -53,3 +53,32 @@ atom-pane {
 background-tips .background-message .message.fade-in {
   color: #ea005e;
 }
+
+
+
+.scrollbars-visible-always {
+  ::-webkit-scrollbar {
+    width: 12px !important;
+    height: 12px !important;
+    &-track {
+        border: 0px;
+        border-radius: 0px;
+        background-color: #444 !important;
+        width: 32px;
+    }
+    &-thumb {
+        // background-color: rgba(255,200,200,0.35) !important;
+        background-color: #72147E !important;
+        border: 0px;
+        // border-radius: 9px;
+    }
+  }
+}
+
+
+.vertical-scrollbar {
+  width: 17px !important;   // has to be bigger than webkit-scrollbar
+}
+.horizontal-scrollbar {
+  width: 100% !important;   // has to be bigger than webkit-scrollbar
+}
