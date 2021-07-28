@@ -14,7 +14,7 @@ Install the Blush UI Theme via Atom by going to [Preferences/Settings > Install]
 Or install through CLI:
 
 ```
- $ apm install city-lights-ui
+ $ apm install blush-ui
 ```
 
 
