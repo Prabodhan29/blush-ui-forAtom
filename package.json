@@ -1,7 +1,7 @@
 {
   "name": "blush-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A UI theme with beautiful colors (mostly pink)!!",
   "publisher": "Prabodhan",
   "author": {
@@ -19,9 +19,9 @@
     "blush"
   ],
   "repository": {
-        "type": "git",
-        "url": "https://github.com/Prabodhan29/blush-ui-forAtom"
-    },
+    "type": "git",
+    "url": "https://github.com/Prabodhan29/blush-ui-forAtom"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
